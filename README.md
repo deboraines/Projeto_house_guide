@@ -177,7 +177,7 @@ Os dados para esse projeto foram coletados na plataforma do Kaggle: https://www.
 
 Para responder as questões de negócio, utilizou-se pensamento analítico e análise de dados.
 
-**Quais são os imóveis que a House Guide deveria comprar e por qual preço** ?
+**Quais são os imóveis que a House Guide deveria comprar e por qual preço?**
 
 1. Agrupar os imóveis por região (zipcode).
    - Encontrar a mediana dos preços por área construída dentro de cada região.
@@ -188,7 +188,7 @@ Para responder as questões de negócio, utilizou-se pensamento analítico e an�
    - Se mais de 50 anos (coluna age):
       - Verificar se possui reforma feita para comprar.
             
-**Uma vez a casa comprada, qual o melhor momento para vendê-las e por qual preço?**?
+**Uma vez a casa comprada, qual o melhor momento para vendê-las e por qual preço?**
 
 1. Agrupar os imóveis por região (zipcode) e por estação.
    - Calcular a mediana do preço para venda, dentro de cada região e estação.
