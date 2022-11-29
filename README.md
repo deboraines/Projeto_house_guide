@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-  <img alt="houseguidelogo" title="#logo" src="./images/house_guide.jpg" />
+  <img alt="houseguidelogo" title="#logo" src="./images/house_guide.jpg" w=512 heigth="700" width="800"/>
 </h1>
 
 ## 1. Problema de Negócio
